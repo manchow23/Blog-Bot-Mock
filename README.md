@@ -32,13 +32,13 @@ It’s a demo project using a mock AI (so no API keys are needed).
    pip install -r requirements.txt
 3. Start App:
    ```bash
-   streamlit run app.py
+   streamlit run blog_generator_mock.py
 
 Open http://localhost:8501 in your browser.
 
 ## 📂 Project Files
 ```bash
-app.py              # Main Streamlit app
-requirements.txt    # Dependencies
-README.md           # Project description
+blog_generator_mock.py              # Main Streamlit app
+requirements.txt                    # Dependencies
+README.md                           # Project description
 ```
