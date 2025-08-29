@@ -53,5 +53,4 @@ Here are some ideas to make BlogBot even better in the future:
 - 🌍 Language support for multi-lingual blogging
 - 💾 Save generated blogs in a database for later use
 - 📊 Dashboard view to organize and browse all your generated blogs
-- ☁️ Deploy on cloud platforms (Streamlit Cloud, Heroku, Render, etc.) for permanent access
 
