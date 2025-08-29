@@ -17,7 +17,7 @@ It’s a demo project using a mock AI (so no API keys are needed).
 
 ## 🚀 Try it Out  
 
-👉 Live App: [[https://blog-bot-mock-vqfx8n6aostaisme8ytssi.streamlit.app/]]
+👉 Live App: [[https://blog-bot-mock-vqfx8n6aostaisme8ytssi.streamlit.app/](Streamlit_app)]
 
 ---
 
