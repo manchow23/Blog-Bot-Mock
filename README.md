@@ -47,11 +47,11 @@ README.md                           # Project description
 
 Here are some ideas to make BlogBot even better in the future:
 
--🤖 Connect with a real AI model (like OpenAI GPT) for smarter paragraphs
--📑 Generate multiple paragraphs or full-length blog posts
--🎨 Custom styling options (fonts, themes, colors)
--🌍 Language support for multi-lingual blogging
--💾 Save generated blogs in a database for later use
--📊 Dashboard view to organize and browse all your generated blogs
--☁️ Deploy on cloud platforms (Streamlit Cloud, Heroku, Render, etc.) for permanent access
+- 🤖 Connect with a real AI model (like OpenAI GPT) for smarter paragraphs
+- 📑 Generate multiple paragraphs or full-length blog posts
+- 🎨 Custom styling options (fonts, themes, colors)
+- 🌍 Language support for multi-lingual blogging
+- 💾 Save generated blogs in a database for later use
+- 📊 Dashboard view to organize and browse all your generated blogs
+- ☁️ Deploy on cloud platforms (Streamlit Cloud, Heroku, Render, etc.) for permanent access
 
