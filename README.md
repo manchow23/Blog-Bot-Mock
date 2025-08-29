@@ -17,7 +17,7 @@ It’s a demo project using a mock AI (so no API keys are needed).
 
 ## 🚀 Try it Out  
 
-👉 Live App: [Your Streamlit Link Here](https://your-app.streamlit.app)  
+👉 Live App: [Your Streamlit Link Here]([https://your-app.streamlit.app](https://blog-bot-mock-vqfx8n6aostaisme8ytssi.streamlit.app/))  
 
 ---
 
@@ -53,5 +53,3 @@ Here are some ideas to make BlogBot even better in the future:
 - 🌍 Language support for multi-lingual blogging
 - 💾 Save generated blogs in a database for later use
 - 📊 Dashboard view to organize and browse all your generated blogs
-
-👉 Try it here: BlogBot Studio on Streamlit
